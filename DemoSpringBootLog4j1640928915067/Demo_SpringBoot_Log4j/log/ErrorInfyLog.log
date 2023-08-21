@@ -1,0 +1,21 @@
+05-Jul-2022 10:46:16 INFO - org.springframework.boot.StartupInfoLoggerlogStarting Starting DemoSpringBootLog4jApplication using Java 14.0.2 on DESKTOP-CGIT20S with PID 14544 (E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j\target\classes started by USER in E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j)
+05-Jul-2022 10:46:16 DEBUG - org.springframework.boot.StartupInfoLoggerlogStarting Running with Spring Boot v2.6.2, Spring v5.3.14
+05-Jul-2022 10:46:16 INFO - org.springframework.boot.SpringApplicationlogStartupProfileInfo No active profile set, falling back to default profiles: default
+05-Jul-2022 10:46:23 INFO - org.springframework.boot.StartupInfoLoggerlogStarted Started DemoSpringBootLog4jApplication in 9.825 seconds (JVM running for 17.71)
+05-Jul-2022 10:46:23 INFO - com.infy.controller.CustomerLoginControllerauthenticateCustomer inside constroller..
+05-Jul-2022 10:46:23 INFO - com.infy.repository.CustomerLoginRepositoryImplgetCustomerLoginByLoginName inside repository...
+05-Jul-2022 10:46:23 INFO - com.infy.DemoSpringBootLog4jApplicationrun Customer logged in successfully!!
+05-Jul-2022 10:47:30 INFO - org.springframework.boot.StartupInfoLoggerlogStarting Starting DemoSpringBootLog4jApplication using Java 14.0.2 on DESKTOP-CGIT20S with PID 5968 (E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j\target\classes started by USER in E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j)
+05-Jul-2022 10:47:30 DEBUG - org.springframework.boot.StartupInfoLoggerlogStarting Running with Spring Boot v2.6.2, Spring v5.3.14
+05-Jul-2022 10:47:30 INFO - org.springframework.boot.SpringApplicationlogStartupProfileInfo No active profile set, falling back to default profiles: default
+05-Jul-2022 10:47:31 INFO - org.springframework.boot.StartupInfoLoggerlogStarted Started DemoSpringBootLog4jApplication in 1.647 seconds (JVM running for 3.401)
+05-Jul-2022 10:47:31 INFO - com.infy.controller.CustomerLoginControllerauthenticateCustomer inside constroller..
+05-Jul-2022 10:47:31 INFO - com.infy.repository.CustomerLoginRepositoryImplgetCustomerLoginByLoginName inside repository...
+05-Jul-2022 10:47:31 ERROR - com.infy.DemoSpringBootLog4jApplicationrun Login denied. Invalid credentials.
+05-Jul-2022 10:54:14 INFO - org.springframework.boot.StartupInfoLoggerlogStarting Starting DemoSpringBootLog4jApplication using Java 14.0.2 on DESKTOP-CGIT20S with PID 8432 (E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j\target\classes started by USER in E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j)
+05-Jul-2022 10:54:14 DEBUG - org.springframework.boot.StartupInfoLoggerlogStarting Running with Spring Boot v2.6.2, Spring v5.3.14
+05-Jul-2022 10:54:14 INFO - org.springframework.boot.SpringApplicationlogStartupProfileInfo No active profile set, falling back to default profiles: default
+05-Jul-2022 10:54:15 INFO - org.springframework.boot.StartupInfoLoggerlogStarted Started DemoSpringBootLog4jApplication in 2.038 seconds (JVM running for 3.952)
+05-Jul-2022 10:54:15 INFO - com.infy.controller.CustomerLoginControllerauthenticateCustomer inside constroller..
+05-Jul-2022 10:54:15 INFO - com.infy.repository.CustomerLoginRepositoryImplgetCustomerLoginByLoginName inside repository...
+05-Jul-2022 10:54:15 INFO - com.infy.DemoSpringBootLog4jApplicationrun Customer logged in successfully!!

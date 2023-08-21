@@ -1,0 +1,40 @@
+2022-05-10 15:15:04 [main] INFO  c.i.DemoSpringBootLog4jApplication - Starting DemoSpringBootLog4jApplication using Java 14.0.2 on DESKTOP-CGIT20S with PID 10336 (E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j\target\classes started by USER in E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j)
+2022-05-10 15:15:04 [main] INFO  c.i.DemoSpringBootLog4jApplication - No active profile set, falling back to default profiles: default
+2022-05-10 15:15:06 [main] INFO  c.i.DemoSpringBootLog4jApplication - Started DemoSpringBootLog4jApplication in 2.031 seconds (JVM running for 2.957)
+2022-05-10 15:15:06 [main] INFO  c.i.c.CustomerLoginController - inside constroller..
+2022-05-10 15:15:06 [main] INFO  c.i.r.CustomerLoginRepositoryImpl - inside repository...
+2022-05-10 15:15:06 [main] ERROR c.i.service.CustomerLoginServiceImpl - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:29)
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:22)
+	at com.infy.DemoSpringBootLog4jApplication.run(DemoSpringBootLog4jApplication.java:39)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.infy.DemoSpringBootLog4jApplication.main(DemoSpringBootLog4jApplication.java:28)
+2022-05-10 15:15:06 [main] ERROR c.i.DemoSpringBootLog4jApplication - Login denied. Invalid credentials.
+2022-05-10 15:16:06 [main] INFO  c.i.DemoSpringBootLog4jApplication - Starting DemoSpringBootLog4jApplication using Java 14.0.2 on DESKTOP-CGIT20S with PID 14132 (E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j\target\classes started by USER in E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j)
+2022-05-10 15:16:06 [main] INFO  c.i.DemoSpringBootLog4jApplication - No active profile set, falling back to default profiles: default
+2022-05-10 15:16:07 [main] INFO  c.i.DemoSpringBootLog4jApplication - Started DemoSpringBootLog4jApplication in 2.025 seconds (JVM running for 3.035)
+2022-05-10 15:16:07 [main] INFO  c.i.c.CustomerLoginController - inside constroller..
+2022-05-10 15:16:07 [main] INFO  c.i.r.CustomerLoginRepositoryImpl - inside repository...
+2022-05-10 15:16:07 [main] ERROR c.i.service.CustomerLoginServiceImpl - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:29)
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:22)
+	at com.infy.DemoSpringBootLog4jApplication.run(DemoSpringBootLog4jApplication.java:39)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.infy.DemoSpringBootLog4jApplication.main(DemoSpringBootLog4jApplication.java:28)
+2022-05-10 15:16:07 [main] ERROR c.i.DemoSpringBootLog4jApplication - Login denied. Invalid credentials.
+2022-05-10 15:16:42 [main] INFO  c.i.DemoSpringBootLog4jApplication - Starting DemoSpringBootLog4jApplication using Java 14.0.2 on DESKTOP-CGIT20S with PID 2720 (E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j\target\classes started by USER in E:\Infosys\ServiceLayer\DemoSpringBootLog4j1640928915067\Demo_SpringBoot_Log4j)
+2022-05-10 15:16:42 [main] INFO  c.i.DemoSpringBootLog4jApplication - No active profile set, falling back to default profiles: default
+2022-05-10 15:16:44 [main] INFO  c.i.DemoSpringBootLog4jApplication - Started DemoSpringBootLog4jApplication in 2.342 seconds (JVM running for 3.356)
+2022-05-10 15:16:44 [main] INFO  c.i.c.CustomerLoginController - inside constroller..
+2022-05-10 15:16:44 [main] INFO  c.i.r.CustomerLoginRepositoryImpl - inside repository...
+2022-05-10 15:16:44 [main] INFO  c.i.DemoSpringBootLog4jApplication - Customer logged in successfully!!
